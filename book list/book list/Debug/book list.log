@@ -1,0 +1,5 @@
+﻿  book list.cpp
+C:\Users\user\source\repos\book list\book list\book list.cpp(67,32): warning C4101: 'e': unreferenced local variable
+C:\Users\user\source\repos\book list\book list\book list.cpp(99,32): warning C4101: 'e': unreferenced local variable
+C:\Users\user\source\repos\book list\book list\book list.cpp(35): warning C4715: 'List::at': not all control paths return a value
+  book list.vcxproj -> C:\Users\user\source\repos\book list\Debug\book list.exe
